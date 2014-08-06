@@ -1,5 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">LiveLogin</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="activity_sign_in_welcome">Please wait while we confirm you are signed in</string>
 
 </resources>
