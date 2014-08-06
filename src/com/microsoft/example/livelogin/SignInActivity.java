@@ -17,7 +17,7 @@ import android.widget.Toast;
 
 public class SignInActivity extends Activity {
 
-	private static final List<String> SCOPES = Arrays.asList(new String[]{"wl.signin"});
+	private static final List<String> SCOPES = Arrays.asList(new String[]{"wl.signin", "wl.offline_access"});
 	private LiveAuthClient mAuthClient;
 	
 	@Override
