@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveLogin</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="activity_sign_in_welcome">Please wait while we confirm you are signed in</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="title_activity_core_app_functionality">CoreAppFunctionalityActivity</string>
+    <string name="signed_in_welcome">You are now signed into this application!</string>
+
+</resources>
